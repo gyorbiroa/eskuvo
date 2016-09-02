@@ -1,38 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Eskuvo" themeId="0" version="65540" templateID="SimpleProjectTemplate">
   <MediaItems>
-    <MediaItem id="17" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02555.MP4" arWidth="1920" arHeight="1080" duration="26.039999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="18" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02556.MP4" arWidth="1920" arHeight="1080" duration="77.399959999999993" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="1" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02504.MP4" arWidth="1920" arHeight="1080" duration="26.52" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="19" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02557.MP4" arWidth="1920" arHeight="1080" duration="63.960000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="2" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02505.MP4" arWidth="1920" arHeight="1080" duration="63" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="20" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02558.MP4" arWidth="1920" arHeight="1080" duration="39.479999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="1" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02504.MP4" arWidth="5760" arHeight="3240" duration="26.399999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="2" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02505.MP4" arWidth="5760" arHeight="3240" duration="62.880000000000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="3" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02508.MP4" arWidth="1920" arHeight="1080" duration="374.04000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="21" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02559.MP4" arWidth="1920" arHeight="1080" duration="141.24000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="4" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02509.MP4" arWidth="1920" arHeight="1080" duration="63.479999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="22" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02560.MP4" arWidth="5760" arHeight="3240" duration="84.9599999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="5" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02510.MP4" arWidth="5760" arHeight="3240" duration="38.880000000000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="23" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02561.MP4" arWidth="1920" arHeight="1080" duration="61.560000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="6" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02511.MP4" arWidth="5760" arHeight="3240" duration="127.68000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="24" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02562.MP4" arWidth="5760" arHeight="3240" duration="11.52" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="7" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02512.MP4" arWidth="5760" arHeight="3240" duration="16.800000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="25" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02563.MP4" arWidth="5760" arHeight="3240" duration="8.6400000000000006" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="8" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02513.MP4" arWidth="1920" arHeight="1080" duration="196.44" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="26" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02566.MP4" arWidth="5760" arHeight="3240" duration="47.039999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="9" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02514.MP4" arWidth="1920" arHeight="1080" duration="88.920000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="27" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02567.MP4" arWidth="1920" arHeight="1080" duration="134.99995999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="10" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02515.MP4" arWidth="5760" arHeight="3240" duration="71.519999999999996" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="28" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02568.MP4" arWidth="5760" arHeight="3240" duration="57.600000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="11" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02516.MP4" arWidth="1920" arHeight="1080" duration="55.799999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="29" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02569.MP4" arWidth="5760" arHeight="3240" duration="14.880000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="10" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02515.MP4" arWidth="1920" arHeight="1080" duration="71.640000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="11" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02516.MP4" arWidth="5760" arHeight="3240" duration="55.68" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="12" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02550.MP4" arWidth="1920" arHeight="1080" duration="33.719999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="30" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02570.MP4" arWidth="5760" arHeight="3240" duration="27.359999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="13" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02551.MP4" arWidth="1920" arHeight="1080" duration="60.600000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="31" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02573.MP4" arWidth="1920" arHeight="1080" duration="74.519999999999996" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="14" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02552.MP4" arWidth="5760" arHeight="3240" duration="50.399999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="32" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02576.MP4" arWidth="1920" arHeight="1080" duration="54.840000000000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
-    <MediaItem id="15" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02553.MP4" arWidth="1920" arHeight="1080" duration="109.08" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="14" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02552.MP4" arWidth="1920" arHeight="1080" duration="50.520000000000003" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="15" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02553.MP4" arWidth="5760" arHeight="3240" duration="108.95999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="16" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02554.MP4" arWidth="5760" arHeight="3240" duration="49.920000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="17" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02555.MP4" arWidth="5760" arHeight="3240" duration="25.920000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="18" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02556.MP4" arWidth="1920" arHeight="1080" duration="77.399959999999993" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="19" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02557.MP4" arWidth="1920" arHeight="1080" duration="63.960000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="20" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02558.MP4" arWidth="1920" arHeight="1080" duration="39.479999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="21" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02559.MP4" arWidth="1920" arHeight="1080" duration="141.24000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="22" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02560.MP4" arWidth="1920" arHeight="1080" duration="85.079999999999998" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="23" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02561.MP4" arWidth="1920" arHeight="1080" duration="61.560000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="24" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02562.MP4" arWidth="1920" arHeight="1080" duration="11.640000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="26" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02566.MP4" arWidth="1920" arHeight="1080" duration="47.159999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="27" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02567.MP4" arWidth="1920" arHeight="1080" duration="134.99995999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="28" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02568.MP4" arWidth="1920" arHeight="1080" duration="57.719999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="29" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02569.MP4" arWidth="5760" arHeight="3240" duration="14.880000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="30" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02570.MP4" arWidth="5760" arHeight="3240" duration="27.359999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="31" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02573.MP4" arWidth="5760" arHeight="3240" duration="74.400000000000006" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="32" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02576.MP4" arWidth="5760" arHeight="3240" duration="54.719999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="33" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02551.mp3" arWidth="0" arHeight="0" duration="60.527999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
+    <MediaItem id="34" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02520.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="35" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02522.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="36" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02525.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="37" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02527.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="38" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02531.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="39" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02538.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="40" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02539.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="41" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02545.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="42" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02547.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="43" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02564.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="44" filePath="C:\Users\anya\Desktop\Dani_eskuvo\DSC02565.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="45" filePath="C:\Users\anya\Desktop\Dani_eskuvo\20160828_090039.jpg" arWidth="2048" arHeight="1152" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="46" filePath="C:\Users\anya\Desktop\Dani_eskuvo\MAH02573.mp3" arWidth="0" arHeight="0" duration="74.447999999999993" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="3" />
   </MediaItems>
   <Extents>
     <VideoClip extentID="53" gapBefore="0" mediaItemID="9" inTime="16.413333333333185" outTime="55.793333333333067" speed="1" stabilizationMode="0">
@@ -48,6 +61,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="54" gapBefore="0" mediaItemID="39" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="55" gapBefore="0" mediaItemID="9" inTime="60.659999999999741" outTime="88.799999999999997" speed="1" stabilizationMode="0">
       <Effects>
         <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
@@ -68,7 +88,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <TitleClip extentID="56" gapBefore="-1.999998000000005" duration="1.999998000000005">
+    <TitleClip extentID="56" gapBefore="-0.24000000000000909" duration="1.999998000000005">
       <Effects>
         <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
           <BoundProperties>
@@ -162,7 +182,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <TitleClip extentID="59" gapBefore="1.9999999949504854e-006" duration="1.999998000000005">
+    <TitleClip extentID="59" gapBefore="-1.759996000000001" duration="1.999998000000005">
       <Effects>
         <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
           <BoundProperties>
@@ -250,7 +270,27 @@
         <BoundPropertyFloat Name="Volume" Value="1.4196078777313232" />
       </BoundProperties>
     </VideoClip>
-    <TitleClip extentID="61" gapBefore="1961.5666666666666" duration="2">
+    <VideoClip extentID="8" gapBefore="0" mediaItemID="26" inTime="11.566666766666458" outTime="47.039999999999999" speed="1" stabilizationMode="0">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="0" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="5" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions>
+        <ShaderEffect effectTemplateID="WheelTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShaderEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <TitleClip extentID="61" gapBefore="1952.5400005999991" duration="2">
       <Effects>
         <TextEffect effectTemplateID="TextEffectFadeZoomTemplate" TextScriptId="9">
           <BoundProperties>
@@ -300,6 +340,20 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
+    <ImageClip extentID="62" gapBefore="0" mediaItemID="40" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="63" gapBefore="0" mediaItemID="41" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="10" gapBefore="0" mediaItemID="6" inTime="0" outTime="120.44666666666672" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -309,6 +363,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="64" gapBefore="0" mediaItemID="42" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="11" gapBefore="0" mediaItemID="7" inTime="0" outTime="0" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -318,6 +379,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="65" gapBefore="0" mediaItemID="43" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="12" gapBefore="0" mediaItemID="8" inTime="0" outTime="107.33333333333337" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -327,7 +395,14 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="13" gapBefore="0" mediaItemID="17" inTime="3.4133333333331848" outTime="26.039999999999999" speed="1" stabilizationMode="0">
+    <ImageClip extentID="66" gapBefore="0" mediaItemID="44" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <VideoClip extentID="13" gapBefore="0" mediaItemID="17" inTime="3.4133333333331848" outTime="0" speed="1" stabilizationMode="0">
       <Effects>
         <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
           <BoundProperties>
@@ -389,6 +464,17 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="69" gapBefore="0" mediaItemID="45" duration="2.7999999999999998">
+      <Effects />
+      <Transitions>
+        <ShapeEffect effectTemplateID="FlipTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="16" gapBefore="0" mediaItemID="18" inTime="1.0866666666663605" outTime="73.30666666666616" speed="1" stabilizationMode="0">
       <Effects>
         <ShaderEffect effectTemplateID="FadeInFromBlackEffectTemplate">
@@ -422,25 +508,17 @@
       <BoundProperties>
         <BoundPropertyBool Name="Mute" Value="false" />
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
+        <BoundPropertyFloat Name="Volume" Value="0" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="18" gapBefore="0" mediaItemID="14" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects>
-        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
-          <BoundProperties>
-            <BoundPropertyFloat Name="AudioFadeInDuration" Value="2.5" />
-            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="0" />
-          </BoundProperties>
-        </AudioEffect>
-      </Effects>
+    <AudioClip extentID="71" gapBefore="930.92527121971034" mediaItemID="46" inTime="10.08" outTime="74.447999999999993" speed="1">
+      <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
+        <BoundPropertyFloat Name="Volume" Value="0.78431379795074463" />
       </BoundProperties>
-    </VideoClip>
+    </AudioClip>
     <VideoClip extentID="19" gapBefore="0" mediaItemID="15" inTime="0" outTime="80.566666666666833" speed="1" stabilizationMode="0">
       <Effects>
         <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
@@ -526,43 +604,32 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="28" gapBefore="0" mediaItemID="24" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions>
-        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
-          <BoundProperties />
-        </ShapeEffect>
-      </Transitions>
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
-    <VideoClip extentID="29" gapBefore="0" mediaItemID="25" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions>
-        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
-          <BoundProperties />
-        </ShapeEffect>
-      </Transitions>
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
-    <VideoClip extentID="30" gapBefore="0" mediaItemID="26" inTime="0" outTime="0" speed="1" stabilizationMode="0">
+    <AudioClip extentID="27" gapBefore="948.0639166666665" mediaItemID="33" inTime="17.765853953043802" outTime="58.409999999999997" speed="1">
       <Effects>
         <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
           <BoundProperties>
             <BoundPropertyFloat Name="AudioFadeInDuration" Value="0" />
-            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="5" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="2.5" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </AudioClip>
+    <VideoClip extentID="28" gapBefore="0" mediaItemID="24" inTime="0" outTime="0" speed="1" stabilizationMode="0">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="0" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="2.5" />
           </BoundProperties>
         </AudioEffect>
       </Effects>
       <Transitions>
-        <ShapeEffect effectTemplateID="CrossfadeTransitionTemplate" duration="1.5">
+        <ShapeEffect effectTemplateID="FlipTransitionTemplate" duration="1.5">
           <BoundProperties />
         </ShapeEffect>
       </Transitions>
@@ -572,8 +639,12 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="32" gapBefore="0" mediaItemID="28" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
+    <VideoClip extentID="32" gapBefore="0" mediaItemID="28" inTime="0" outTime="48.700000599999612" speed="1" stabilizationMode="0">
+      <Effects>
+        <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
       <Transitions>
         <ShaderEffect effectTemplateID="WheelTransitionTemplate" duration="1.5">
           <BoundProperties />
@@ -606,7 +677,14 @@
       </BoundProperties>
     </VideoClip>
     <VideoClip extentID="34" gapBefore="0" mediaItemID="30" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="0" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="2.5" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
       <Transitions>
         <ShaderEffect effectTemplateID="WheelTransitionTemplate" duration="1.5">
           <BoundProperties />
@@ -620,17 +698,15 @@
     </VideoClip>
     <VideoClip extentID="35" gapBefore="0" mediaItemID="31" inTime="0" outTime="56.833333933333279" speed="1" stabilizationMode="0">
       <Effects>
-        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
-          <BoundProperties>
-            <BoundPropertyFloat Name="AudioFadeInDuration" Value="0" />
-            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="5" />
-          </BoundProperties>
-        </AudioEffect>
         <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
           <BoundProperties />
         </ShaderEffect>
       </Effects>
-      <Transitions />
+      <Transitions>
+        <ShapeEffect effectTemplateID="FlipTransitionTemplate" duration="1.5">
+          <BoundProperties />
+        </ShapeEffect>
+      </Transitions>
       <BoundProperties>
         <BoundPropertyBool Name="Mute" Value="false" />
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
@@ -678,7 +754,26 @@
         <BoundPropertyFloat Name="Volume" Value="1.4196078777313232" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="40" gapBefore="0" mediaItemID="19" inTime="4.8333333333332575" outTime="63.960000000000001" speed="1" stabilizationMode="0">
+    <VideoClip extentID="39" gapBefore="0" mediaItemID="14" inTime="12.70666666666682" outTime="50.399999999999999" speed="1" stabilizationMode="0">
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="2.5" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="0" />
+          </BoundProperties>
+        </AudioEffect>
+        <ShaderEffect effectTemplateID="FadeInFromBlackEffectTemplate">
+          <BoundProperties />
+        </ShaderEffect>
+      </Effects>
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <VideoClip extentID="40" gapBefore="0" mediaItemID="19" inTime="4.8333333333332575" outTime="0" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -687,6 +782,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="41" gapBefore="0" mediaItemID="34" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="42" gapBefore="0" mediaItemID="3" inTime="145.36666666666665" outTime="247.29999999999998" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -705,6 +807,13 @@
         <BoundPropertyFloat Name="Volume" Value="1.4196078777313232" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="44" gapBefore="0" mediaItemID="35" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="45" gapBefore="0" mediaItemID="23" inTime="1.3066667666666945" outTime="61.439999999999998" speed="1" stabilizationMode="0">
       <Effects>
         <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
@@ -725,6 +834,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="46" gapBefore="0" mediaItemID="36" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="47" gapBefore="0" mediaItemID="4" inTime="43.233333333333348" outTime="0" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -735,7 +851,14 @@
       </BoundProperties>
     </VideoClip>
     <VideoClip extentID="48" gapBefore="0" mediaItemID="27" inTime="3.7133337333332292" outTime="134.88" speed="1" stabilizationMode="0">
-      <Effects />
+      <Effects>
+        <AudioEffect effectTemplateID="AudioFadeEffectTemplate">
+          <BoundProperties>
+            <BoundPropertyFloat Name="AudioFadeInDuration" Value="0" />
+            <BoundPropertyFloat Name="AudioFadeOutDuration" Value="2.5" />
+          </BoundProperties>
+        </AudioEffect>
+      </Effects>
       <Transitions>
         <ShapeEffect effectTemplateID="FlipTransitionTemplate" duration="1.5">
           <BoundProperties />
@@ -756,6 +879,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="50" gapBefore="0" mediaItemID="37" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="51" gapBefore="0" mediaItemID="8" inTime="137.39999999999998" outTime="196.31999999999999" speed="1" stabilizationMode="0">
       <Effects>
         <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
@@ -769,6 +899,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="52" gapBefore="0" mediaItemID="38" duration="2.7999999999999998">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <ExtentSelector extentID="1" gapBefore="0" primaryTrack="true">
       <Effects />
       <Transitions />
@@ -793,7 +930,7 @@
         <ExtentRef id="15" />
         <ExtentRef id="57" />
         <ExtentRef id="17" />
-        <ExtentRef id="18" />
+        <ExtentRef id="39" />
         <ExtentRef id="19" />
         <ExtentRef id="20" />
         <ExtentRef id="13" />
@@ -804,13 +941,24 @@
         <ExtentRef id="26" />
         <ExtentRef id="45" />
         <ExtentRef id="28" />
-        <ExtentRef id="29" />
-        <ExtentRef id="30" />
+        <ExtentRef id="8" />
         <ExtentRef id="48" />
         <ExtentRef id="32" />
         <ExtentRef id="33" />
         <ExtentRef id="34" />
         <ExtentRef id="35" />
+        <ExtentRef id="69" />
+        <ExtentRef id="41" />
+        <ExtentRef id="44" />
+        <ExtentRef id="46" />
+        <ExtentRef id="52" />
+        <ExtentRef id="54" />
+        <ExtentRef id="62" />
+        <ExtentRef id="50" />
+        <ExtentRef id="63" />
+        <ExtentRef id="64" />
+        <ExtentRef id="65" />
+        <ExtentRef id="66" />
         <ExtentRef id="60" />
         <ExtentRef id="58" />
         <ExtentRef id="36" />
@@ -820,7 +968,10 @@
       <Effects />
       <Transitions />
       <BoundProperties />
-      <ExtentRefs />
+      <ExtentRefs>
+        <ExtentRef id="27" />
+        <ExtentRef id="71" />
+      </ExtentRefs>
     </ExtentSelector>
     <ExtentSelector extentID="3" gapBefore="0" primaryTrack="false">
       <Effects />
@@ -843,17 +994,17 @@
     <BoundPlaceholder placeholderID="SingleExtentView" extentID="0" />
     <BoundPlaceholder placeholderID="Main" extentID="1" />
     <BoundPlaceholder placeholderID="SoundTrack" extentID="2" />
-    <BoundPlaceholder placeholderID="Text" extentID="4" />
     <BoundPlaceholder placeholderID="Narration" extentID="3" />
+    <BoundPlaceholder placeholderID="Text" extentID="4" />
   </BoundPlaceholders>
   <BoundProperties>
     <BoundPropertyFloatSet Name="AspectRatio">
       <BoundPropertyFloatElement Value="1.7777776718139648" />
     </BoundPropertyFloatSet>
-    <BoundPropertyFloat Name="DuckedNarrationAndSoundTrackMix" Value="0.5" />
+    <BoundPropertyFloat Name="DuckedNarrationAndSoundTrackMix" Value="1" />
     <BoundPropertyFloat Name="DuckedVideoAndNarrationMix" Value="0" />
-    <BoundPropertyFloat Name="DuckedVideoAndSoundTrackMix" Value="0" />
-    <BoundPropertyFloat Name="SoundTrackMix" Value="0" />
+    <BoundPropertyFloat Name="DuckedVideoAndSoundTrackMix" Value="0.5" />
+    <BoundPropertyFloat Name="SoundTrackMix" Value="0.5" />
   </BoundProperties>
   <ThemeOperationLog themeID="0">
     <MonolithicThemeOperations />
